@@ -1,5 +1,5 @@
 # TDD, Refactoring, Clean Code 8기 과제 모음
->[NEXT STEP 박재성님의 TDD 강의](https://edu.nextstep.camp/) (2020-05-09 ~ 2020-07-04)를 수강하며 작성한 코드와 리뷰가 담긴 저장소
+>[박재성님의 TDD 강의](https://edu.nextstep.camp/) (2020-05-09 ~ 2020-07-04) 코드 리뷰 저장소
 
 ## 4주차 - 볼링 점수판 만들기
 Step1 : 볼링 점수판 (그리기) - [코드 리뷰](https://github.com/next-step/java-bowling/pull/195)  
