@@ -4,8 +4,8 @@
 ## 4주차 - 볼링 점수판 만들기
 Step1 : 볼링 점수판 (그리기) - [코드 리뷰](https://github.com/next-step/java-bowling/pull/195)  
 Step2 : 볼링 점수판 (점수 계산) - [코드 리뷰](https://github.com/next-step/java-bowling/pull/238)  
-Step3 : 볼링 점수판 (리팩토링) 
-Step4 : 볼링 점수판 (n명)
+Step3 : 볼링 점수판 (리팩토링)  
+Step4 : 볼링 점수판 (n명) 
 
 ## 3주차 - 사다리 게임 만들기
 Step1 : Lambda, Stream, Optional 실습 - [코드 리뷰](https://github.com/next-step/java-ladder/pull/433)  
